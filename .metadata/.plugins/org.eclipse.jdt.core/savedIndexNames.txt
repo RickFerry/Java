@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/media/rick/RickFerry4/Projetos/Java/.metadata/.plugins/org.eclipse.jdt.core
