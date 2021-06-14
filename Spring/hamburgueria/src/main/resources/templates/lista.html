@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Hamburgueria</title>
+</head>
+<body>
+<form>
+<ul th:each="hamburguer : ${lista}">
+<li th:text="${hamburguer.nome}"></li>
+<li th:text="${hamburguer.validade}"></li>
+<li th:text="${hamburguer.preco}"></li>
+</ul>
+</form>
+</body>
+</html>
