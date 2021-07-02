@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: carrinho
+    
+    
+  cloud:
+    config:
+      uri:
+      - http://localhost:8888
